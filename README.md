@@ -4,4 +4,7 @@
 
 This repository contains all of the notes taken by [Jen](https://github.com/jjung219) for the LHL program.
 
-# W1D1
+## Table of Contents
+
+- [W1](/Week_1)
+  - [D1](/Week_1/Day_1)
